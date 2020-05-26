@@ -1,0 +1,3 @@
+# Binder Python dependencies 
+matplotlib
+seaborn
