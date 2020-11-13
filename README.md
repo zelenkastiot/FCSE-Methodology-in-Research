@@ -1,6 +1,5 @@
 # PaperClipExperiment
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zelenkastiot/PaperClipExperiment/master?filepath=Experiment%20.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zelenkastiot/FCSE-Methodology-in-Research/HEAD?filepath=Experiment%20.ipynb)
 
 Repository for my Methodology course I took during my fall semester in 2019. The exam was to test some hypothesis, and I tried to reproduce mine.
 
