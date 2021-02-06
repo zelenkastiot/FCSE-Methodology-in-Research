@@ -3,4 +3,7 @@
 
 Repository for my Methodology course I took during my fall semester in 2019. The exam was to test some hypothesis, and I tried to reproduce mine.
 
-<br>Mine was related to proving that the frequency distribution of randomly added paper clip chains follows the [Pareto Principle](https://www.investopedia.com/terms/p/paretoprinciple.asp). 
+
+The exam was centered around describing some hypothesis. I managed to reproduce mine using simple a Jupyter Notebook. 
+The hypothesis I had chosen was regarding the frequency distribution of randomly added paper clip chains. The hypothesis was that this 
+distribution follows the Pareto Principle (80-20 rule).
